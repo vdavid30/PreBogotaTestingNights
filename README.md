@@ -1,4 +1,4 @@
-# Prerequsites Bogota Testing Nights
+# Prerequisites Bogota Testing Nights
 
 On this workshop we are going to test the integration of two popular API's, Trello and PokeAPI, we can see how important are the information generated of the automated tests.
 
